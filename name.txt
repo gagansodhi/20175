@@ -1,0 +1,4 @@
+dbms vs rdbms charecteristic
+distinct keyword example and syntax
+pk vs fk
+select create 
